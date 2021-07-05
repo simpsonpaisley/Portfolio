@@ -1,0 +1,23 @@
+body {
+    font-family: 'Monoton', cursive;
+    font-size: 100px;
+  }
+  
+  #logo {
+    display: flex;
+     background: -webkit-linear-gradient(#e7e4eb, #bd02c4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+  }
+  
+  #p {
+    position: relative;
+    
+  }
+  
+  #s {
+    position: relative;
+    top: 50px;
+    right: 60px;
+  }
