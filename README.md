@@ -1,2 +1,3 @@
-# portfolio
-Remade Portfolio
+# Portfolio
+
+This is my remade portfolio.
