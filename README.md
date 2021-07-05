@@ -10,6 +10,7 @@
 
 <h2> Logo - 05/07/21 </h2>
 <p> In this commit, I attempted to create a logo for my portfolio, using HTML and CSS. The aim of my logo was to have some gradient coloured initials overlapping each other slightly. I managed to do this using position properties on the second letter. This allowed me to overlap the text. I was able to use webkit tools to easily create gradient text. Although I am fairly pleased with how this went, using HTML and CSS for a logo does create some problems, as if I want to use it in multiple places at different sizes, I would need to change quite a few properties as the font size changes. Because of this, I will remake the logo as an image file, to be able to more easily reuse it. </p>
+<p> The code for my simple logo using HTML and CSS can be found at: https://codepen.io/BillyBowl/pen/MWmKybK </p>
 
 
 
